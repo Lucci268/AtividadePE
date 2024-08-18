@@ -36,4 +36,5 @@ int main() {
     SomarImpar();
     MultiplosSem3();
 
-    return
+    return 0;
+}
