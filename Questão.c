@@ -33,7 +33,7 @@ void MultiplosSem3() {
 
 int main() {
     MostrarNumeros();
-    SomarImpar();
+    SomaImpar();
     MultiplosSem3();
 
     return 0;
